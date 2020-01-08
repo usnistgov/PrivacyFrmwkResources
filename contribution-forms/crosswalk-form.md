@@ -16,11 +16,10 @@
 
 **Link to Source:** *link to this source*
 
-**Source Type:** 
-*Select one: 
-(1) laws and regulations, 
-(2) standard, 
-(3) framework, or 
-(4) policy.*
+**Source Type:** *Select one:*
+* *laws and regulations,*
+* *standard,*
+* *framework, or*
+* *policy.*
 
 **Contributor Notes:** *This section is optional. You may use it to share notes for the community to consider while reviewing your resource.*
