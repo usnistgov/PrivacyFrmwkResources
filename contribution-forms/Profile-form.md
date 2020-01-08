@@ -11,19 +11,20 @@
 
 **Profile Name:** *name of the Profile you’re contributing*
 
-**Profile Type:** *Provide an industry sector, domain (e.g., IoT), and/or data processing ecosystem role (e.g., data controller) for which this Profile is intended. You may provide any combination of the three. If industry sector, please select from the below list. 
-* Consumer Technology
-* Education
-* Energy
-* Financial
-* Government 
-* Healthcare
-* Identity
-* Information Technology
-* Manufacturing
-* Retail
-* Telecommunications
-* Transportation
-* Other – Please provide your own.*
+**Profile Type:** *Provide an industry sector, domain (e.g., IoT), and/or data processing ecosystem role (e.g., data controller) for which this Profile is intended. You may provide any combination of the three. If industry sector, please select from the below list.*
+
+* *Consumer Technology*
+* *Education*
+* *Energy*
+* *Financial*
+* *Government*
+* *Healthcare*
+* *Identity*
+* *Information Technology*
+* *Manufacturing*
+* *Retail*
+* *Telecommunications*
+* *Transportation*
+* *Other – Please provide your own.*
 
 **Contributor Notes:** *This section is optional. You may use it to share notes for the community to consider while reviewing your resource.*
