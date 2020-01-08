@@ -25,7 +25,7 @@ NIST reserves the right to reject, remove, or edit any contribution or feedback,
 * includes personally identifiable or business identifiable information according to Department of Commerce Office of Privacy and Open Government [guidelines](http://www.osec.doc.gov/opog/privacy/PII_BII.html); or, 
 •contains .exe or .jar file types.* 
 
-These file types will not be hosted in the NIST repository; instead, NIST may link to these if hosted elsewhere.
+*These file types will not be hosted in the NIST repository; instead, NIST may link to these if hosted elsewhere.
 
 ### Contributor Responsibilities
 NIST also reserves the right to reject or remove contributions from the repository if the contributor fails to carry out any of the following responsibilities:
