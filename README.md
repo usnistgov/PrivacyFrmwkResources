@@ -2,13 +2,13 @@
 This repository contains resources to support organizations’ use of the Privacy Framework. Resources include crosswalks, Profiles, guidance, and tools. NIST encourages new contributions and feedback on these resources as part of the ongoing collaborative effort to improve implementation of the Privacy Framework.
 
 ## Browse
-Visit the Browse page to find and use resources to help with framework implementation. 
+Visit the [Browse page](www.nist.gov/privacy-framework/resource-repository/browse) to find and use resources to help with framework implementation. 
 
 ## Contribute
-Visit the Contribute page to learn how to prepare and contribute your resource for potential inclusion in the repository.
+Visit the [Contribute page](www.nist.gov/privacy-framework/resource-repository/contribute) to learn how to prepare and contribute your resource for potential inclusion in the repository.
 
 ## Engage
-Share feedback and ask questions about resources in the repository using the Issues feature.
+Share feedback and ask questions about resources in the repository using the [Issues feature](https://github.com/usnistgov/PrivacyFrmwkResources/newissue).
 
 ## Operating Rules
 These operating rules describe and govern NIST’s management of this repository and contributors’ responsibilities. NIST reserves the right to modify this policy at any time.
