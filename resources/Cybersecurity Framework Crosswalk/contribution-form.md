@@ -5,7 +5,7 @@
 
 **Contributor GitHub Username:** @kboeckl
 
-**Resource:** *If you are hosting your resource, then provide link(s) to your resource. Otherwise, include your resource in your GitHub directory.*
+**Resource:** included in this directory.
 
 **Related Documentation:** n/a
 
@@ -13,7 +13,7 @@
 
 **Source Name:** Framework for Improving Critical Infrastructure Cybersecurity, Version 1.1 (Cybersecurity Framework)
 
-**Link to Source:** https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf
+**Link to Source:** https://doi.org/10.6028/NIST.CSWP.04162018
 
 **Source Type:** framework
 
