@@ -8,7 +8,7 @@ Visit the [Browse page](www.nist.gov/privacy-framework/resource-repository/brows
 Visit the [Contribute page](www.nist.gov/privacy-framework/resource-repository/contribute) to learn how to prepare and contribute your resource for potential inclusion in the repository.
 
 ## Engage
-Share feedback and ask questions about resources in the repository using the [Issues feature](https://github.com/usnistgov/PrivacyFrmwkResources/newissue).
+Share feedback and ask questions about resources in the repository using the [Issues feature](https://github.com/usnistgov/PrivacyFrmwkResources/issues/new).
 
 ## Operating Rules
 These operating rules describe and govern NIST’s management of this repository and contributors’ responsibilities. NIST reserves the right to modify this policy at any time.
@@ -22,7 +22,7 @@ NIST reserves the right to reject, remove, or edit any contribution or feedback,
 * contains abusive or vulgar content, spam, hate speech, personal attacks, or similar content;  
 * is clearly "off topic"; 
 * makes unsupported accusations;
-* includes personally identifiable or business identifiable information according to Department of Commerce Office of Privacy and Open Government guidelines; or, 
+* includes personally identifiable or business identifiable information according to Department of Commerce Office of Privacy and Open Government [guidelines](http://www.osec.doc.gov/opog/privacy/PII_BII.html); or, 
 •contains .exe or .jar file types.* 
 
 These file types will not be hosted in the NIST repository; instead, NIST may link to these if hosted elsewhere.
