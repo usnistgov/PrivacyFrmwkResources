@@ -34,8 +34,8 @@ NIST also reserves the right to reject or remove contributions from the reposito
 * responding to NIST representatives in a timely manner;
 * keeping contributions and contributor GitHub username up to date; and
 * annual verification of the accuracy and relevancy of the contribution.
-** NIST will create a GitHub issue and tag the contributor’s GitHub username to notify contributors one year after the date their contribution is posted in the repository, and annually thereafter.
-** Contributors must either confirm that their contribution remains accurate and relevant, or provide updates to maintain its accuracy and relevancy (e.g., to reflect recent changes to a source document).
+  * NIST will create a GitHub issue and tag the contributor’s GitHub username to notify contributors one year after the date their contribution is posted in the repository, and annually thereafter.
+  * Contributors must either confirm that their contribution remains accurate and relevant, or provide updates to maintain its accuracy and relevancy (e.g., to reflect recent changes to a source document).
 
 ### Representations and Warranties & Software Use Agreement 
 Any references to commercial entities, products, services, or other nongovernmental organizations or individuals on the site are provided solely for the information of individuals using this page. These references are not intended to reflect the opinion of NIST, the Department of Commerce or the United States, or its officers or employees. Such references are not an official or personal endorsement of any product, person, or service, nor are they intended to imply that the entities, materials, or equipment are necessarily the best available for the purpose. Such references may not be quoted or reproduced for the purpose of stating or implying an endorsement, recommendation, or approval of any product, person, or service.
