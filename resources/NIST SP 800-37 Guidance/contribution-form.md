@@ -10,6 +10,6 @@
 
 **Guidance/Tool Name:** NIST Special Publication 800-37, Revision 2, Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy
 
-**Relevant Core Classification:** *List whether this guidance or tool is for the complete Core, or specific Functions, Categories, or Subcategories.*
+**Relevant Core Classification:** Specific Subcategories
 
 **Contributor Notes:** n/a
