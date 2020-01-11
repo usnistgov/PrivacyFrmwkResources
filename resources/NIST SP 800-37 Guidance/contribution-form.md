@@ -12,4 +12,4 @@
 
 **Relevant Core Classification:** *List whether this guidance or tool is for the complete Core, or specific Functions, Categories, or Subcategories.*
 
-**Contributor Notes:** *This section is optional. You may use it to share notes for the community to consider while reviewing your resource.*
+**Contributor Notes:** n/a
