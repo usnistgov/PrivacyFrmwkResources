@@ -4,7 +4,7 @@
 
 **Contributor GitHub Username:** @kboeckl
 
-**Resource:** *If you are hosting your resource, then provide link(s) to your resource. Otherwise, include your resource in your GitHub directory.*
+**Resource:** https://csrc.nist.gov/csrc/media/publications/sp/800-53/rev-5/draft/documents/sp800-53r5-draft.pdf
 
 **Related Documentation:** *This section is optional. If you are hosting related documentation, then provide link(s). Otherwise, include the related documentation in your GitHub directory.*
 
