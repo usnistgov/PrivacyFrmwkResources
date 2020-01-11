@@ -10,6 +10,6 @@
 
 **Guidance/Tool Name:** NIST Internal Report 8062, An Introduction to Privacy Engineering and Risk Management in Federal Systems
 
-**Relevant Core Classification:** *List whether this guidance or tool is for the complete Core, or specific Functions, Categories, or Subcategories.*
+**Relevant Core Classification:** Specific Subcategories: ID.IM-P1, ID.IM-P2, ID.IM-P3, ID.IM-P4, ID.IM-P6, ID.IM-P7, ID.IM-P8, ID.BE-P2, ID.BE-P3, ID.RA-P1, ID.RA-P3, ID.RA-P4, ID.RA-P5, GV.PO-P1, GV.PO-P2, GV.PO-P5, GV.PO-P6, GV.MT-P1, CT.DM-P10, CT.DP-P5, CM.AW-P2
 
 **Contributor Notes:** n/a
