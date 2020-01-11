@@ -10,6 +10,6 @@
 
 **Guidance/Tool Name:** NIST Privacy Risk Assessment Methodology (PRAM) Version February 2019
 
-**Relevant Core Classification:** Complete Core
+**Relevant Core Classification:** Subcategories in Identify-P, Govern-P, and Control-P
 
 **Contributor Notes:** n/a
