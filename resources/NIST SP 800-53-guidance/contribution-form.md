@@ -6,7 +6,7 @@
 
 **Resource:** https://csrc.nist.gov/csrc/media/publications/sp/800-53/rev-5/draft/documents/sp800-53r5-draft.pdf
 
-**Related Documentation:** *This section is optional. If you are hosting related documentation, then provide link(s). Otherwise, include the related documentation in your GitHub directory.*
+**Related Documentation:** mapping document in directory
 
 **Guidance/Tool Name:** NIST Special Publication 800-53, Revision 5, Initial Public Draft, Security and Privacy Controls for Information Systems and Organizations
 
