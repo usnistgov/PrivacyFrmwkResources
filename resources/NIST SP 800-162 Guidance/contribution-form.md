@@ -4,7 +4,7 @@
 
 **Contributor GitHub Username:** @kboeckl
 
-**Resource:** https://doi.org/10.6028/NIST.SP.800- 162
+**Resource:** https://doi.org/10.6028/NIST.SP.800-162
 
 **Related Documentation:** n/a
 
