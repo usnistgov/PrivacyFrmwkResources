@@ -10,6 +10,6 @@
 
 **Guidance/Tool Name:** NIST Special Publication 800-63-3, Digital Identity Guideliness
 
-**Relevant Core Classification:** Specific Subcategories: CT.PO-P1, CT.PO-P3, CT.DP-P1, CT.DP-P2, CT.DP-P3, CT.DP-P4, CT.DP-P5, PR.AC-P1, PR.AC-P6, 
+**Relevant Core Classification:** Specific Subcategories: CT.PO-P1, CT.PO-P3, CT.DP-P1, CT.DP-P2, CT.DP-P3, CT.DP-P4, CT.DP-P5, PR.AC-P1, PR.AC-P6
 
 **Contributor Notes:** n/a
