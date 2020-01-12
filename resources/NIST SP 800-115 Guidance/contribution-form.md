@@ -8,7 +8,7 @@
 
 **Related Documentation:** n/a
 
-**Guidance/Tool Name:** NIST SP 800-115, Technical Guide to Information Security Testing and Assessment
+**Guidance/Tool Name:** NIST Special Publication 800-115, Technical Guide to Information Security Testing and Assessment
 
 **Relevant Core Classification:** Specific Subcategory: CT.DM-P9
 
