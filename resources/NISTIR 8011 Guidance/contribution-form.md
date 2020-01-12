@@ -4,7 +4,7 @@
 
 **Contributor GitHub Username:** @kboeckl
 
-**Resource:** https://doi.org/10.6028/NIST.IR.8011-1, https://doi.org/10.6028/NIST.IR.8011-2, https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8011-3.pdf
+**Resource:** https://doi.org/10.6028/NIST.IR.8011-1, https://doi.org/10.6028/NIST.IR.8011-2, https://doi.org/10.6028/NIST.IR.8011-3
 
 **Related Documentation:** n/a
 
