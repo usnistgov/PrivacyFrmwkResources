@@ -10,6 +10,6 @@
 
 **Guidance/Tool Name:** NISTIR 8011, Automation Support for Security Control Assessments (Vols 1, 2, and 3)
 
-**Relevant Core Classification:** Specific Subcategories: CT.DM-P9
+**Relevant Core Classification:** Specific Subcategory: CT.DM-P9
 
 **Contributor Notes:** n/a
