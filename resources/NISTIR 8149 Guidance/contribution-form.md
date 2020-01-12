@@ -10,6 +10,6 @@
 
 **Guidance/Tool Name:** NIST Interagency or Internal Report (NISTIR) 8149, Developing Trust Frameworks to Support Identity Federations
 
-**Relevant Core Classification:** Specific Subcategories: ID.DE-P4
+**Relevant Core Classification:** Specific Subcategory: ID.DE-P4
 
 **Contributor Notes:** n/a
