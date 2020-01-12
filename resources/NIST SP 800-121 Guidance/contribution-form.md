@@ -8,7 +8,7 @@
 
 **Related Documentation:** n/a
 
-**Guidance/Tool Name:** NIST SP 800-121, Revision 2, Guide to Bluetooth Security
+**Guidance/Tool Name:** NIST Special Publication 800-121, Revision 2, Guide to Bluetooth Security
 
 **Relevant Core Classification:** Specific Subcategory: PR.AC-P3
 
