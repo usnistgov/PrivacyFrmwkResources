@@ -4,7 +4,7 @@
 
 **Contributor GitHub Username:** @kboeckl
 
-**Resource:** https://csrc.nist.gov/CSRC/media/Publications/sp/800- 188/draft/documents/sp800_188_draft2.pdf
+**Resource:** https://csrc.nist.gov/CSRC/media/Publications/sp/800-188/draft/documents/sp800_188_draft2.pdf
 
 **Related Documentation:** n/a
 
