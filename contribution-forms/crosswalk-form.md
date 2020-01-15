@@ -12,14 +12,13 @@
 
 **Crosswalk Name:** *name of the crosswalk you’re contributing*
 
-**Source Name:** *title of the source (e.g., law, regulation, standard, framework, policy) that you have mapped to the Privacy Framework*
+**Source Name:** *title of the source (e.g., law, regulation, standard, framework) that you have mapped to the Privacy Framework*
 
 **Link to Source:** *link to this source*
 
 **Source Type:** *Select one:*
 * *laws and regulations,*
-* *standard,*
-* *framework, or*
-* *policy.*
+* *standard, or*
+* *framework.
 
 **Contributor Notes:** *This section is optional. You may use it to share notes for the community to consider while reviewing your resource.*
