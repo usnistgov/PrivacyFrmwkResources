@@ -19,6 +19,6 @@
 **Source Type:** *Select one:*
 * *laws and regulations,*
 * *standard, or*
-* *framework.
+* *framework.*
 
 **Contributor Notes:** *This section is optional. You may use it to share notes for the community to consider while reviewing your resource.*
