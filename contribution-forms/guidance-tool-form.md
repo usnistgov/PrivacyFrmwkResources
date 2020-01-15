@@ -11,6 +11,6 @@
 
 **Guidance/Tool Name:** *title of the guidance, tool, or best practice that you have mapped to the Privacy Framework*
 
-**Relevant Core Classification:** *List whether this guidance or tool is for the complete Core, or specific Functions, Categories, or Subcategories.*
+**Associated Core Classification:** *List whether this guidance or tool is for the complete Core, or specific Functions, Categories, or Subcategories.*
 
 **Contributor Notes:** *This section is optional. You may use it to share notes for the community to consider while reviewing your resource.*
