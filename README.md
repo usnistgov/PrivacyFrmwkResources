@@ -5,7 +5,7 @@ This repository contains resources to support organizations’ use of the Privac
 Visit the [Browse page](https://www.nist.gov/privacy-framework/resource-repository/browse) to find and use resources to help with framework implementation. 
 
 ## Contribute
-Visit the [Contribute page](https://www.nist.gov/privacy-framework/resource-repository/contribute) to learn how to prepare and contribute your resource for potential inclusion in the repository.
+Visit the [Contribute page](https://w3auth.nist.gov/privacy-framework/resource-repository/contribute-resources) to learn how to prepare and contribute your resource for potential inclusion in the repository.
 
 ## Engage
 Share feedback and ask questions about resources in the repository using the [Issues feature](https://github.com/usnistgov/PrivacyFrmwkResources/issues/new).
