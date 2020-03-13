@@ -5,7 +5,7 @@
 
 **Contributor GitHub Username:** @kboeckl
 
-**Resource:** included in this directory.
+**Resource:** https://github.com/usnistgov/PrivacyFrmwkResources/raw/master/resources/Cybersecurity%20Framework%20Crosswalk/Crosswalk%20Resource-%20Cybersecurity%20Framework%20to%20NIST%20Privacy%20Framework.xlsx
 
 **Related Documentation:** n/a
 
