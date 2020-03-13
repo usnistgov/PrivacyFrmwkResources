@@ -5,7 +5,7 @@
 
 **Contributor GitHub Username:** @tgrotheeriapp
 
-**Resource:** *If you are hosting your resource, then provide link(s) to your resource. Otherwise, include your resource in your GitHub directory.*
+**Resource:** https://github.com/usnistgov/PrivacyFrmwkResources/blob/master/resources/IAPP%20CIPM%20Crosswalk/NIST-Privacy-Framework-V1.0-Crosswalk-IAPP-CIPM_resource.xlsx
 
 **Related Documentation:** [The Skill Set Needed to Implement a Privacy Risk Management Framework](https://iapp.org/media/pdf/resource_center/white_paper_implement_privacy_risk_management_framework.pdf)
 
