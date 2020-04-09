@@ -32,4 +32,3 @@ Our tool processes GSA’s collection of PIA and SORN documents (PDF and XML) an
 This PII inventory is a collaboration between 18F and GSA’s Privacy Office. It received funding by GSA’s 10x program. 
  
 If you are interested in using our tool to create a PII inventory for your agency please reach out to us at privacy_devops@gsa.gov or on Github. We are happy to advise you on how to fork the repository if your team needs help. If you don’t have in-house capacity, 18F is a digital consultancy and we’re also available to work with you implement a PII inventory for your agency. 
-
