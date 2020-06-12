@@ -5,7 +5,7 @@
 
 <b>Contributor GitHub Username:</b> @privacymaverick
 
-<b>Crosswalk Name:</b> name of the crosswalk you’re contributing
+<b>Crosswalk Name:</b> GDPR-Regulation 2016/679 Crosswalk
 
 <b>Source Name:</b> Regulation (EU) 2016/679 (General Data Protection Regulation)
 
