@@ -1,3 +1,5 @@
+*With the release of NIST Special Publication 800-53, Revision 5, this resource has been archived. The latest version of this resource is the (NIST Privacy Framework and Cybersecurity Framework to NIST Special Publication 800-53, Revision 5 Crosswalk)[https://w3auth.nist.gov/privacy-framework/nist-privacy-framework-and-cybersecurity-framework-nist-special-publication-800-53].*
+
 # Guidance & Tools Contribution Form
 
 **Contributor:** National Institute of Standards and Technology (NIST)
