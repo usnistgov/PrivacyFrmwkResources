@@ -1,4 +1,4 @@
-*With the release of NIST Special Publication 800-53, Revision 5, this resource has been archived. The latest version of this resource is the (NIST Privacy Framework and Cybersecurity Framework to NIST Special Publication 800-53, Revision 5 Crosswalk)[https://w3auth.nist.gov/privacy-framework/nist-privacy-framework-and-cybersecurity-framework-nist-special-publication-800-53].*
+**With the release of NIST Special Publication 800-53, Revision 5, this resource has been archived. The latest version of this resource is the (NIST Privacy Framework and Cybersecurity Framework to NIST Special Publication 800-53, Revision 5 Crosswalk)[https://w3auth.nist.gov/privacy-framework/nist-privacy-framework-and-cybersecurity-framework-nist-special-publication-800-53].**
 
 # Guidance & Tools Contribution Form
 
@@ -14,4 +14,4 @@
 
 **Relevant Core Classification:** Complete Core
 
-**Contributor Notes:** With the [release](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/draft) of the final public draft of NIST Special Publication 800-53, revision 5, for public comment, NIST plans to update this resource. NIST will post the updated resource on this page, and announce its availability via the NIST Privacy Framework [mailing list](https://groups.google.com/a/list.nist.gov/forum/#!forum/privacyframework), when it is ready.
+**Contributor Notes:** This resource has been archived.
