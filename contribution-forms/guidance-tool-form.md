@@ -1,4 +1,4 @@
-# Guidance & Tools Contribution Form
+# Guidelines & Tools Contribution Form
 *Remove all italicized text in this form, provided for instructional purposes, before submitting your pull request.*
 
 **Contributor:** *Name of contributor. Use organization name if representing an organization.*
@@ -9,8 +9,8 @@
 
 **Related Documentation:** *This section is optional. If you are hosting related documentation, then provide link(s). Otherwise, include the related documentation in your GitHub directory.*
 
-**Guidance/Tool Name:** *title of the guidance, tool, or best practice that you have mapped to the Privacy Framework*
+**Guideline/Tool Name:** *title of the guideline, tool, or best practice that you have mapped to the Privacy Framework*
 
-**Associated Core Classification:** *List whether this guidance or tool is for the complete Core, or specific Functions, Categories, or Subcategories.*
+**Associated Core Classification:** *List whether this guideline or tool is for the complete Core, or specific Functions, Categories, or Subcategories.*
 
 **Contributor Notes:** *This section is optional. You may use it to share notes for the community to consider while reviewing your resource.*
