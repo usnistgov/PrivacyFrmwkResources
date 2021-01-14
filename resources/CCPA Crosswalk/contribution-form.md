@@ -1,4 +1,3 @@
-
 # Crosswalk Contribution Form
 
 **Contributor:** Jeewon Serrato, BakerHostetler
