@@ -4,7 +4,7 @@
 
 **Contributor GitHub Username:** @kboeckl
 
-**Resource:** https://doi.org/10.6028/NIST.SP.800-175B
+**Resource:** https://doi.org/10.6028/NIST.SP.800-175Br1
 
 **Related Documentation:** n/a
 
