@@ -1,6 +1,6 @@
 # Guidance & Tools Contribution Form
 
-**Contributor:** National Institute of Standards and Technology
+**Contributor:** National Institute of Standards and Technology (NIST)
 
 **Contributor GitHub Username:** @kboeckl
 
