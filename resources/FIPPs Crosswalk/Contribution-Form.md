@@ -10,7 +10,7 @@
 
 **Crosswalk Name:** NIST Privacy Framework 1.0-FIPPs Crosswalk
 
-**Source Name:** Fair Information Practice Principles(FIPPs)
+**Source Name:** Fair Information Practice Principles (FIPPs)
 
 **Link to Source:** https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf
 
