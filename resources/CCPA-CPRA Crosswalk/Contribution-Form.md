@@ -1,5 +1,5 @@
 # Crosswalk Contribution Form
-*Remove all italicized text in this form, provided for instructional purposes, before submitting your pull request.*
+
 
 **Contributor:** Jerel Pacis Agatep, BakerHostetler
 
