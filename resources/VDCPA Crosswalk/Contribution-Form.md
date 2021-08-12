@@ -8,7 +8,7 @@
 
 **Related Documentation:** n/a
 
-**Crosswalk Name:** VDCPA Crosswalk
+**Crosswalk Name:** VCDPA Crosswalk
 
 **Source Name:** Virginia Consumer Data Protection Act (VCDPA)
 
