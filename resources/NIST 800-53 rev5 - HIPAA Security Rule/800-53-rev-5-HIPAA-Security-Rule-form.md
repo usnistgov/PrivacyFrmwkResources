@@ -1,7 +1,7 @@
 # Guidelines & Tools Contribution Form
 
 
-**Contributor:** Danny K. Muchoki
+**Contributor:** Danny K. Muchoki - https://dannymuchoki.com
 
 **Contributor GitHub Username:** @dannymuchoki 
 
