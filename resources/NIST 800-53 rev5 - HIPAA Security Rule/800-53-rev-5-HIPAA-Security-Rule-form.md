@@ -13,4 +13,4 @@
 
 **Associated Core Classification:** This resource is for the Cybersecurity Framework. 
 
-**Contributor Notes:** *This section is optional. You may use it to share notes for the community to consider while reviewing your resource.*
+**Contributor Notes:** I created this crosswalk for a project and decided to share it. I hope you find it useful. 
