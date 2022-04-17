@@ -3,7 +3,7 @@
 
 **Contributor:** Danny K. Muchoki - https://dannymuchoki.com
 
-**Contributor GitHub Username:** @dannymuchoki 
+**Contributor GitHub Username:** https://github.com/dannymuchoki
 
 **Resource:** This crosswalk maps the security controls in NIST 800-53 rev 5 to the HIPAA Security Rule.
 
