@@ -9,8 +9,8 @@
 
 **Related Documentation:** N/A
 
-**Guideline/Tool Name:** This crosswalk maps the HIPAA Security Rule to the Cybersecurity Framework and the attendant rev 5 controls. This is useful for programs where privacy and cybersecurity are tightly integrated. It will help your IT team map security controls to the HIPAA Security Rule.
+**Guideline/Tool Name:** NIST 800-53 rev 5 CSF to HIPAA Security Rule 
 
 **Associated Core Classification:** This resource is for the Cybersecurity Framework. 
 
-**Contributor Notes:** I created this crosswalk for a project and decided to share it. I hope you find it useful. 
+**Contributor Notes:** This crosswalk maps the HIPAA Security Rule to the Cybersecurity Framework and the attendant rev 5 controls. This is useful for programs where privacy and cybersecurity are tightly integrated. It will help your IT team map security controls to the HIPAA Security Rule. I created this crosswalk for a project and decided to share it. I hope you find it useful. 
