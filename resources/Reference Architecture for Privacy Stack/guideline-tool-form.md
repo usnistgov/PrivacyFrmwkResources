@@ -2,7 +2,13 @@
 
 **Contributor GitHub Username:** @nandita-rao
 
-**Resource:** https://github.com/ethical-tech-project/the-privacy-stack#permission-management
+**Resource:**
+- Simple Application  
+https://github.com/ethical-tech-project/the-privacy-stack#permission-management
+- Advanced Application  
+https://github.com/ethical-tech-project/the-privacy-stack#permission-propagation-to-processors
+- Processor Application  
+https://github.com/ethical-tech-project/the-privacy-stack#permission-management-1
 
 **Related Documentation:** https://theprivacystack.org/
 
