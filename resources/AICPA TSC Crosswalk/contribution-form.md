@@ -21,6 +21,6 @@
 
 This mapping may be leveraged by privacy and GRC teams to perform a SOC readiness assessment and by service auditors to evaluate whether the NIST Privacy Framework may be considered suitable criteria in an attestation examination.
 
-Sincere thanks to Dylan Gilbert, Privacy Policy Advisor at NIST, R. Jason Cronk, Founder of Institute of Privacy by Design, and Anza Abbas, Associate Enterprivacy Consulting Group for their feedback. 
+Sincere thanks to Dylan Gilbert, Privacy Policy Advisor at NIST, R. Jason Cronk, Founder of Institute of Operational Privacy Design, and Anza Abbas, Associate at Enterprivacy Consulting Group for their feedback. 
 
 *Disclaimer: This work product was developed in my personal capacity and does not guarantee accuracy or completeness. You should leverage it as a starting point for your own analysis.*
