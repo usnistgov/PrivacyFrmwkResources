@@ -24,7 +24,15 @@
 
 **Methodology **
 •	The NIST Privacy Framework was retrieved from the https://www.nist.gov/document/nist-privacy-framework-v10-core and the DPDPA ACT was retrieved from MEITY https://www.meity.gov.in/writereaddata/files/Digital Personal Data Protection Act 2023.pdf 
-•	I utilized the Cybersecurity and Privacy Reference Tool CPRT and manually mapped to the DPDPA Act 2023.
+•	Cybersecurity and Privacy Reference Tool CPRT has been leveraged for manually mapping to the DPDPA Act 2023.
+
+**Reasoning behind the mapping**  
+Readers should note that the DPDPA does share common objectives of protecting individuals' privacy rights and regulating the processing of personal data with other privacy regulations such as CCPA or GDPR; however, each are shaped by distinct legal, cultural, and regulatory contexts. This leads to differences in scope, implementation, and enforcement mechanisms. 
+For Example: 
+
+•	Chapter I – Preliminary of the bill focuses largely on definitions such as “Data Fiduciary”, “Data Principal”, etc which have been mapped to IDENTIFY-P (ID-P) and GOVERN-P (GV-P) as the definitions outline the scope of the Bill with respect to your organization. For example, the DPDPA Data Principal definition has parlance to GDPR Data Subject definition, however the DPDPA introduces child and guardian concept in the data principal description itself rather than defining the consent in a separate Art. 8: Child's consent or Art. 9: Processing special categories of data in the GDPR.
+
+•	Chapter II - Obligations of Data Fiduciary has parlance to Technical and Organizational controls mandated in other global legislations which have been mapped largely to CONTROL-P (CT-P) and PROTECT-P (PR-P) in addition to other NIST Core subcategory. What sets DPDPA distinct from other regulations is the concept of “Consent Manager”. A "consent manager" within the context of the DPDPA refers to a mechanism or tool that enables Data Principals to exercise control over the processing of their personal data by providing informed and specific consent which can be then leveraged by the Data Fiduciary for processing. While specific details about the implementation of a consent manager under the DPDPA in India are yet to be finalized, it's likely that such a mechanism will play a crucial role in ensuring compliance with data protection requirements and empowering individuals to exercise control over their personal data. The ownership, accountability and responsibility are placed on the Data Fiduciary to ensure the these controls are implemented across the lifecycle of the processing irrespective if it is done by the Data Fiduciary itself or outsourced to third parties/processors and sub processors. 
 
 **Historical Context**
 •	Prior to the DPDPA, India’s data protection rules are made up of Section 43A and 87(2)(ob) of the Information Technology Act, 2000 and the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011.
