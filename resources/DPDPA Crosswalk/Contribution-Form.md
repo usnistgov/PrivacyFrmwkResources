@@ -1,6 +1,6 @@
 # Crosswalk Contribution Form
 
-**Contributor:** Amey Kantak, Persistent Systems
+**Contributor:** Amey Kantak
 
 **Contributor GitHub Username:** @kantakgoa
 
@@ -42,6 +42,7 @@ For Example:
 •	On 18 November 2022, MEITY released the Digital Personal Data Protection Bill, 2022 for public consultation.
 •	The Digital Personal Data Protection Act, 2023 (“DPDPA”) was passed by Lok Sabha (lower house of the Indian Parliament) on August 7, 2023, and by the Rajya Sabha (upper house of the Indian Parliament) on August 9, 2023. The DPDPA received the President’s assent and was enacted into law on August 11, 2023. Factors such as accountability, transparency, data minimisation, fairness, accuracy, and lawful processing of personal data have been reflected in the DPDPA. It addresses Data Principals as ‘she/her,’ which is unseen in any Indian law till date and sets the tone in a new light.
 •	The DPDPA is “umbrella” legislation, as it sets out only a high-level framework for India’s new data protection regime, with supplementary rules expected in due course. 
+•	Rules for DPDPA are currently awaited as of July 2024
 
 **Disclaimer **
 While every effort has been made to be complete and provide as much detail as necessary, no guarantee or warranty is provided on the accuracy or completeness of this mapping. You should use it as a starting point for your own analysis. Information on this crosswalk may not constitute the most up-to-date legal or other information. The views expressed in the content belong to the contributor and not the organization, its affiliates, or employees. Any links to third-party websites or sources are provided only for the convenience of the reader. 
