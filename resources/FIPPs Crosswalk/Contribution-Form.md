@@ -12,7 +12,7 @@
 
 **Source Name:** Fair Information Practice Principles (FIPPs)
 
-**Link to Source:** https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf
+**Link to Source:** https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf
 
 **Source Type:** framework
 
